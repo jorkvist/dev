@@ -1,0 +1,90 @@
+{    
+"values_lists": [
+	{            
+		"code": "color_151",
+		"label": "Women's Top Colors",
+		"allow_other": "n",
+		"values": [
+			{
+				"code": "151r",                    
+				"label": "Red"
+			},
+			{
+				"code": "151b",
+				"label": "Blue",
+			},                
+			{
+				"code": "151c",
+				"label": "Cyan",
+			},
+			{
+				"code": "151g",
+				"label": "Green",
+			}
+		]
+	},
+	{
+		"code": "color_152",            
+		"label": "Women's Top Colors",            
+		"allow_other": "y",            
+		"values": [                
+			{
+				"code": "152r",                    
+				"label": "Red",                 
+			},                
+			{
+				"code": "152b",                    
+				"label": "Blue",                
+			},
+			{
+				"code": "152b",
+				"label": "Black",
+			},                
+			{                    
+				"code": "152y",                    
+				"label": "Yellow",                
+			}            
+		]
+	},
+	{
+		"code": "battery-size",
+		"label": "Battery Size",            
+		"values": [                
+			{
+				"code": "aaa",                    
+				"label": "AAA",                 
+			},
+			{
+				"code": "aa",
+				"label": "AA",
+			},                
+			{                    
+				"code": "c",
+				"label": "C",                
+			},
+			{                    
+				"code": "d",
+				"label": "D",
+			}
+		]
+	},
+	{
+		"code": "mount-type",
+		"label": "Mount Type",            
+		"values": [
+			{                    
+				"code": "swivel",                    
+				"label": "Swivel",                
+			},
+			{                    
+				"code": "fixed",                    
+				"label": "Fixed",                
+			},
+			{                    
+				"code": "tilt",                    
+				"label": "Tilt",                
+			}            
+		]
+	},
+]
+}
