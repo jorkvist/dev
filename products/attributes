@@ -1,0 +1,48 @@
+{
+	"attributes": [
+		{
+			"code": "Category",
+			"description": "This field specifies the category of the product.",
+			"hierarchy_code": "",
+			"label": "Category",
+			"required": true,
+			"type": "string",
+			"validations": "MAX_LENGTH|40",
+			"values_list": null,
+			"variant": false
+		},
+		{
+			"code": "title",
+			"description": "This field specifies the title of the product.",
+			"hierarchy_code": "",
+			"label": "Product Title",
+			"required": true,
+			"type": "string",
+			"validations": "MAX_LENGTH|120",
+			"values_list": null,
+			"variant": false
+		},
+		{
+			"code": "itemstandardcolor",
+			"description": "This field specifies the color of the product.",
+			"hierarchy_code": "151",
+			"label": "Color",
+			"required": true,
+			"type": "string",
+			"validations": null,
+			"values_list": "color_151",
+			"variant": false
+		},
+		{
+			"code": "itemstandardcolor",
+			"description": "This field specifies the color of the product.",
+			"hierarchy_code": "152",
+			"label": "Color",
+			"required": true,
+			"type": "string",
+			"validations": null,
+			"values_list": "color_152",
+			"variant": false
+		},
+	]
+}
