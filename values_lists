@@ -2,7 +2,7 @@
 "values_lists": [
 	{            
 		"code": "color_151",
-		"label": "Women's Top Colors",
+		"label": "Womens Top Colors",
 		"allow_other": "n",
 		"values": [
 			{
@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "color_152",            
-		"label": "Women's Top Colors",            
+		"label": "Womens Top Colors",            
 		"allow_other": "y",            
 		"values": [                
 			{
