@@ -11,15 +11,15 @@
 			},
 			{
 				"code": "151b",
-				"label": "Blue",
+				"label": "Blue"
 			},                
 			{
 				"code": "151c",
-				"label": "Cyan",
+				"label": "Cyan"
 			},
 			{
 				"code": "151g",
-				"label": "Green",
+				"label": "Green"
 			}
 		]
 	},
@@ -30,19 +30,19 @@
 		"values": [                
 			{
 				"code": "152r",                    
-				"label": "Red",                 
+				"label": "Red"              
 			},                
 			{
 				"code": "152b",                    
-				"label": "Blue",                
+				"label": "Blue"            
 			},
 			{
 				"code": "152b",
-				"label": "Black",
+				"label": "Black"
 			},                
 			{                    
 				"code": "152y",                    
-				"label": "Yellow",                
+				"label": "Yellow"
 			}            
 		]
 	},
@@ -52,19 +52,19 @@
 		"values": [                
 			{
 				"code": "aaa",                    
-				"label": "AAA",                 
+				"label": "AAA"
 			},
 			{
 				"code": "aa",
-				"label": "AA",
+				"label": "AA"
 			},                
 			{                    
 				"code": "c",
-				"label": "C",                
+				"label": "C"    
 			},
 			{                    
 				"code": "d",
-				"label": "D",
+				"label": "D"
 			}
 		]
 	},
@@ -74,15 +74,15 @@
 		"values": [
 			{                    
 				"code": "swivel",                    
-				"label": "Swivel",                
+				"label": "Swivel"
 			},
 			{                    
 				"code": "fixed",                    
-				"label": "Fixed",                
+				"label": "Fixed"
 			},
 			{                    
 				"code": "tilt",                    
-				"label": "Tilt",                
+				"label": "Tilt"
 			}            
 		]
 	}
