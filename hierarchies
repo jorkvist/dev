@@ -1,0 +1,22 @@
+{
+	"hierarchies": [
+		{
+			"code": "151",
+			"label": "Clothing",
+			"level": 1,
+			"parent_code": ""
+		},
+		{
+			"code": "1511",
+			"label": "Women’s",
+			"level": 2,
+			"parent_code": "151"
+		},
+		{
+			"code": "15110",
+			"label": "Tops",
+			"level": 3,
+			"parent_code": "1511"
+		},
+	]
+}
